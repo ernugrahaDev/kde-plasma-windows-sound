@@ -1,0 +1,9 @@
+[Sound Theme]
+Name=KDE Plasma-Windows sound
+Comment=Windows 11 System Sound for KDE Plasma
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
+
